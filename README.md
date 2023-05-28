@@ -1,5 +1,5 @@
+#b js.padroes.web
  
- #b  js.padroes.web
  segurança da informação:integra
 lucas vanique-
 emerson jesus-
